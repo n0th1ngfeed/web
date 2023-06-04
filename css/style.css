@@ -55,7 +55,7 @@ body {
 }
 .menu_element {
   clear: both;
-  font-size: 16;
+  font-size: 16px;
   display: inline-block;
   margin: 0;
   white-space: nowrap;
@@ -393,7 +393,7 @@ body {
 }
 .discount_image {
   float: right;
-  width: 560;
+  width: 560px;
   height: 350px;
 }
 
